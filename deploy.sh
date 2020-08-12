@@ -10,4 +10,4 @@ git init
 git add .
 git commit -m "gh-pages"
 
-git push -f git@github.com:qiaoxun/vue-formbuilder.git master:gh-pages
+git push -f git@github.com:abhimanusharma/vue-formbuilder.git master:gh-pages

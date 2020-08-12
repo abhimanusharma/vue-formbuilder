@@ -1,7 +1,6 @@
 {
-    "name": "vue-formbuilder2.0",
+    "name": "vue-formbuilder3.0",
     "version": "0.1.0",
-    "private": true,
     "scripts": {
         "serve": "vue-cli-service serve",
         "build": "vue-cli-service build",
